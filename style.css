@@ -32,7 +32,7 @@ body {
 
 .card {
   width: 75%;
-  height: 50%;
+  height: 60%;
   background-color: var(--card-background);
   display: flex;
   border-radius: 10px;
